@@ -1,0 +1,12 @@
+SPECIES_CODE,HOW_MANY,Year,LOC_ID,LATITUDE,LONGITUDE,SUBNATIONAL1_CODE,Scientific_Name,Common_Name
+blujay,2,1994,L20416,35.0226200,-93.4723900,US-AR,"Cyanocitta cristata","Blue Jay"
+brnthr,3,1994,L20416,35.0226200,-93.4723900,US-AR,"Toxostoma rufum","Brown Thrasher"
+carchi,0,1994,L20416,35.0226200,-93.4723900,US-AR,"Poecile carolinensis","Carolina Chickadee"
+haiwoo,1,1994,L20416,35.0226200,-93.4723900,US-AR,"Dryobates villosus","Hairy Woodpecker"
+houspa,3,1994,L20416,35.0226200,-93.4723900,US-AR,"Passer domesticus","House Sparrow"
+norcar,10,1994,L20416,35.0226200,-93.4723900,US-AR,"Cardinalis cardinalis [cardinalis Group]","Northern Cardinal (Common)"
+purfin,1,1994,L20416,35.0226200,-93.4723900,US-AR,"Haemorhous purpureus californicus","Purple Finch (Western)"
+purfin,1,1995,L20416,35.0226200,-93.4723900,US-AR,"Haemorhous purpureus californicus","Purple Finch (Western)"
+purfin,1,1996,L20416,35.0226200,-93.4723900,US-AR,"Haemorhous purpureus californicus","Purple Finch (Western)"
+normoc,1,1995,L20416,35.0226200,-93.4723900,US-AR,"Mimus polyglottos","Northern Mockingbird"
+normoc,1,2006,L20416,35.0226200,-93.4723900,US-AR,"Mimus polyglottos","Northern Mockingbird"
